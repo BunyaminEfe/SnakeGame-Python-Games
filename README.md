@@ -1,4 +1,4 @@
-# snake-game
+# SnakeGame
 # Python Turtle Graphics
 use the arrow keys to play the game
 
