@@ -4,7 +4,7 @@ import random
 w = 500
 h = 500
 fs = 10
-d = 100  # milliseconds
+d = 100  
 
 offsets = {
     "up": (0, 20),
