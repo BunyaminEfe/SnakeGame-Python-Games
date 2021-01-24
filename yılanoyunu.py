@@ -105,7 +105,7 @@ screen.tracer(0)
 
 
 
-cam = turtle.Turtle("circle")
+cam = turtle.Turtle("turtle")
 cam.penup()
 
 
